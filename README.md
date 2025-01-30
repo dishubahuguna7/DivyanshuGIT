@@ -1,4 +1,4 @@
 # DivyanshuGIT
 Git repo.
 <br>
-author - Divyanshu Bahuguna
+author - Divyanshu Bahuguna (Webknot Technologies)
